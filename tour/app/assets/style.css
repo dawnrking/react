@@ -1,0 +1,17 @@
+html,body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+}
+#example {
+  width: 100%;
+  height: 100%
+}
+.tour-content{
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  background: #e1e1e1;
+}
